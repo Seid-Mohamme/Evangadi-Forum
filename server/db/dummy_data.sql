@@ -1,3 +1,4 @@
+-- Active: 1751132112023@@dpg-d1faorpr0fns73clg31g-a.oregon-postgres.render.com@5432@evangadi_forum_j4tj
 -- USERS (Passwords are placeholders and should be hashed in a real application)
 INSERT INTO registration (user_uuid, user_name, user_email, password) VALUES
 ('f47ac10b-58cc-4372-a567-0e02b2c3d479', 'abebe', 'abebe.bekele@example.com', '$2b$10$placeholderhash'),
